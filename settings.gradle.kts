@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "20243007027-ResponsiveLayout1"
 include(":app")
+include(":constraintlayoutapp")
